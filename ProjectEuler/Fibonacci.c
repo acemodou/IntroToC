@@ -32,7 +32,7 @@ int main(void)
 	*/
 
         //using forloop
-        
+
 		int prev1 = 1,prev2 = 2;
 		int sum = 0;
 
@@ -44,6 +44,6 @@ int main(void)
 			prev1 = prev2;
 			prev2 = curr;
 		}
-		printf("%d\n",sum);
+		printf("Sum of fibonacci numbers between 1 and 4000000 is: %d\n",sum);
 
 }
