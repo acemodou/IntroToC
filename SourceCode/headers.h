@@ -16,5 +16,4 @@ int message(const char * fmt, ...)
  }
 
 
-
 #endif
