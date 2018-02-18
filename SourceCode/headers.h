@@ -15,5 +15,4 @@ int message(const char * fmt, ...)
      return rc;
  }
 
-
 #endif
